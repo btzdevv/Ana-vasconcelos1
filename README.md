@@ -7,9 +7,9 @@
 ---
 
 ## Sobre
-Desenvolvedora Front-End com foco em desenvolvimento de interfaces modernas, responsivas e funcionais.  
-Atualmente aperfeiçoando habilidades em HTML, CSS e JavaScript.  
-Explorando design minimalista aplicado ao desenvolvimento web.
+desenvolvedora Front-End com foco em desenvolvimento de interfaces modernas, responsivas e funcionais.  
+atualmente aperfeiçoando habilidades em HTML, CSS e JavaScript.  
+explorando design minimalista aplicado ao desenvolvimento web.
 
 ---
 
@@ -45,7 +45,7 @@ Explorando design minimalista aplicado ao desenvolvimento web.
 ---
 
 <p align="center">
-  Código, design e desenvolvimento por btzZ
+  código, design e desenvolvimento por btzZ
 </p>
 
 
