@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Beatriz</h1>
+<h1 align="center">olá,sou Beatriz</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF66C4&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-End;Focada+em+tecnologia+e+design;Criando+soluções+digitais+intuitivas" alt="Typing SVG" />
@@ -7,9 +7,9 @@
 ---
 
 ## Sobre
-Desenvolvedora Front-End com foco em desenvolvimento de interfaces modernas, responsivas e funcionais.  
-Atualmente aperfeiçoando habilidades em HTML, CSS e JavaScript.  
-Explorando design minimalista com identidade própria, utilizando uma paleta preto, branco, cinza e rosa.
+desenvolvedora Front-End com foco em desenvolvimento de interfaces modernas, responsivas e funcionais.  
+atualmente aperfeiçoando habilidades em HTML, CSS e JavaScript.  
+aprendendo constantemente.
 
 ---
 
@@ -45,6 +45,6 @@ Explorando design minimalista com identidade própria, utilizando uma paleta pre
 ---
 
 <p align="center">
-  Design e desenvolvimento por Beatriz
+  design&desenvolvimento by btzZ
 </p>
 
