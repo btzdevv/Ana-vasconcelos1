@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center" style="color:#fff;background:#222;padding:20px 0;">
-  <img src="https://img.shields.io/badge/btz%20dev-%23ff69b4.svg?style=for-the-badge&logo=github&logoColor=white" alt="btz dev" />
+  <img src="https://img.shields.io/badge/btz%20dev-%23ff69b4.svg?style=for-the-badge&logo=github&logoColor=white" alt="btz" />
   <br>
   <span style="color:#ff69b4;">Beatriz</span> | <span style="color:#fff;">btz dev</span>
 </h1>
