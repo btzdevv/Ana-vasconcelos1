@@ -36,6 +36,6 @@ aprendendo constantemente.
 ---
 
 <p align="center">
-  design&desenvolvimento by btzZ
+  design&desenvolvimento by btz
 </p>
 
