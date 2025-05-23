@@ -26,7 +26,7 @@
 ## 🖤 sobre
 
 - 💻 desenvolvedora front-end — html, css & javascript.
--  design é essencial: código bonito, visual bonito.
+-  design é essencial: código bonito e funcional, visual bonito.
 -  aprendendo e evoluindo todos os dias.
 
 ## 🛠️ tecnologias
