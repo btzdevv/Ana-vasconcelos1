@@ -23,18 +23,6 @@ aprendendo constantemente.
 
 ---
 
----
-
-
-## Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvasconcelosx&show_icons=true&theme=dark&bg_color=000000&title_color=FF66C4&text_color=d9d9d9&icon_color=FF66C4" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvasconcelosx&layout=compact&theme=dark&bg_color=000000&title_color=FF66C4&text_color=d9d9d9" height="180"/>
-</div>
-
----
-
 ## Contato
 <p align="center">
   <a href="https://www.instagram.com/bvasconcelosx/" target="_blank">
