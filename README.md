@@ -1,41 +1,57 @@
-<h1 align="center">olá , sou Beatriz</h1>
+<!-- README.md -->
+
+<h1 align="center" style="color:#fff;background:#222;padding:20px 0;">
+  <img src="https://img.shields.io/badge/btz%20dev-%23ff69b4.svg?style=for-the-badge&logo=github&logoColor=white" alt="btz dev" />
+  <br>
+  <span style="color:#ff69b4;">Beatriz</span> | <span style="color:#fff;">btz dev</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF66C4&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-End;Focada+em+tecnologia+e+design;Criando+soluções+digitais+intuitivas" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Front--End-%23222222?style=flat-square&logo=html5&logoColor=ff69b4" alt="Front-End" />
+  <img src="https://img.shields.io/badge/Design%20+%20Code-%23ff69b4?style=flat-square&logo=css3&logoColor=white" alt="Design + Code" />
+  <img src="https://img.shields.io/badge/Intuitivo%20e%20moderno-%23222222?style=flat-square" alt="Intuitivo e moderno" />
 </p>
 
 ---
 
-## Sobre
-desenvolvedora Front-End com foco em desenvolvimento de interfaces modernas, responsivas e funcionais.  
-atualmente aperfeiçoando habilidades em HTML, CSS e JavaScript.  
-aprendendo constantemente.
+<p align="center" style="color:#888;font-size:1.1em;">
+  <b>olá, sou Beatriz — mas pode chamar de <span style="color:#ff69b4;">btz </span>!</b><br>
+  criando interfaces modernas, responsivas e funcionais.<br>
+  apaixonada por tecnologia, design e detalhes.<br>
+  bem-vindo ao meu espaço digital.
+</p>
 
 ---
 
-## Tecnologias
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="40"/>
-</div>
+## 🖤 sobre
 
----
+- 💻 desenvolvedora front-end — html, css & javascript.
+-  design é essencial: código bonito, visual bonito.
+-  aprendendo e evoluindo todos os dias.
 
-## Contato
+## 🛠️ tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5&logoColor=ff69b4)
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3&logoColor=ff69b4)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=ff69b4)
+![Git](https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=ff69b4)
+
+## 📫 contato
+
 <p align="center">
-  <a href="https://www.instagram.com/bvasconcelosx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF66C4"/>
+  <a href="https://github.com/btzdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23222222?style=for-the-badge&logo=github&logoColor=ff69b4" alt="GitHub" />
   </a>
   <a href="mailto:contatoanavascc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF66C4"/>
+    <img src="https://img.shields.io/badge/Email-%23ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/bvasconcelosx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23222222?style=for-the-badge&logo=instagram&logoColor=ff69b4" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  design&desenvolvimento by btz
+<p align="center" style="color:#888;">
+  <i>design & desenvolvimento by btz</i>
 </p>
-
