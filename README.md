@@ -16,8 +16,6 @@
 
 <p align="center" style="color:#888;font-size:1.1em;">
   <b>olá, sou Beatriz — mas pode chamar de <span style="color:#ff69b4;">btz </span>!</b><br>
-  criando interfaces modernas, responsivas e funcionais.<br>
-  apaixonada por tecnologia, design e detalhes.<br>
   bem-vindo ao meu espaço digital.
 </p>
 
@@ -25,9 +23,7 @@
 
 ## 🖤 sobre
 
-- 💻 desenvolvedora front-end — html, css & javascript.
--  design é essencial: código bonito e funcional, visual bonito.
--  aprendendo e evoluindo todos os dias.
+- 💻 desenvolvedora front-end 
 
 ## 🛠️ tecnologias
 
